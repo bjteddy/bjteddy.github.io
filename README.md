@@ -1,1 +1,0 @@
-# bjteddy.github.io

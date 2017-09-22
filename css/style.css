@@ -1460,3 +1460,8 @@ text-decoration: underline;
 .idiv{
     text-align:center;
 }
+.bold_black_text{
+    color:#000; 
+    font-weight:bold;
+    background-color: #FFFF00;
+}
